@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048150718789",
+    "project_id": "readrover-eb615",
+    "storage_bucket": "readrover-eb615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048150718789:android:bff1bbc3f570f91b60e62c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_readrover"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrIeV5oc25A5eN1dD7eKDQzCPtzcttJfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
